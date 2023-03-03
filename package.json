@@ -52,7 +52,7 @@
     "chai": "^3.5.0",
     "chai-spies": "^1.0.0",
     "istanbul": "^0.4.5",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "mocha-param": "^2.0.0",
     "nyc": "^13.1.0",
     "randomstring": "^1.1.5",
